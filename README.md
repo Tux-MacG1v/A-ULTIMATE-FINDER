@@ -54,7 +54,7 @@ For a demo or to acquire the full suite of AIO features, please contact us via t
 
 For additional inquiries and support, follow us on:
 
-- [Telegram: AIO - Helpdesk](https://t.me/aio_helpdesk)
+- [Telegram: AIO - Helpdesk](https://t.me/aiomain)
 - [Telegram: DEATH SHOP](https://t.me/DEATHSHOPOFFICIAL)
 - [Telegram: Tux Bot and Tools🤖](https://t.me/tuxbotandtoolshop)
 
