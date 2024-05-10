@@ -33,7 +33,7 @@ AIO is web vulnerability detection and exploitation. This versatile tool encompa
 
 **Key Features:**
 
-- **Blazing Speed:** Experience unmatched performance with the ability to send an impressive 220,000 requests per second, ensuring rapid identification and remediation of vulnerabilities.
+- **Blazing Speed:** Experience unmatched performance with the ability to send an impressive 22,000 requests per second, ensuring rapid identification and remediation of vulnerabilities.
 
 - **Resource Efficiency:** Designed for optimal resource utilization, AIO minimizes RAM and CPU consumption, ensuring seamless operation without compromising system performance.
 
