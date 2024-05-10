@@ -13,7 +13,11 @@ git clone https://github.com/Tux-MacG1v/A-ULTIMATE-FINDER
 ```link
 https://dl.google.com/go/go1.22.3.windows-amd64.msi
 ```
-> RUN main.py with PYTHON3:
+> RUN main.go with GOLANG:
+```golang
+go run main.go
+```
+> OR RUN main.py with PYTHON3:
 ```python
 python3 main.py
 ```
