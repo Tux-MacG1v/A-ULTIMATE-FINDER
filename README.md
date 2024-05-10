@@ -9,6 +9,10 @@
 ```terminal
 git clone https://github.com/Tux-MacG1v/A-ULTIMATE-FINDER
 ```
+> DOWNLOAD GOLANG AND INSTALL:
+```link
+https://dl.google.com/go/go1.22.3.windows-amd64.msi
+```
 > RUN main.py with PYTHON3:
 ```python
 python3 main.py
