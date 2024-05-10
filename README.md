@@ -13,7 +13,10 @@ git clone https://github.com/Tux-MacG1v/A-ULTIMATE-FINDER
 ```python
 python3 main.py
 ```
-
+> OR RUN main.exe:
+```terminal
+main.exe
+```
 **Overview:**
 
 AIO is web vulnerability detection and exploitation. This versatile tool encompasses a myriad of features tailored for efficiency, efficacy, and user convenience.
