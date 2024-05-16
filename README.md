@@ -21,9 +21,9 @@ go run main.go
 ```python
 python3 main.py
 ```
-> OR RUN main.exe:
+> OR RUN updater.exe:
 ```terminal
-main.exe
+updater.exe
 ```
 **Overview:**
 
